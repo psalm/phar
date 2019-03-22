@@ -1,0 +1,11 @@
+{
+	"name": "psalm/shim",
+	"description": "Composer-based Psalm Phar",
+	"license": ["MIT"],
+	"require": {
+		"php": "7.0"
+	},
+	"bin": [
+		"psalm.phar"
+	]
+}
