@@ -1,5 +1,5 @@
 {
-	"name": "psalm/shim",
+	"name": "psalm/phar",
 	"description": "Composer-based Psalm Phar",
 	"license": ["MIT"],
 	"require": {
